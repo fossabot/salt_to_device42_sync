@@ -1,4 +1,6 @@
 # saltexplore
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsaudit%2Fsalt_to_device42_sync.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsaudit%2Fsalt_to_device42_sync?ref=badge_shield)
+
 Script to sync Salt nodes information to Device42 (http://device42.com)
 This script was tested with Salt Master ( 2016.11.1 Carbon )
 
@@ -33,3 +35,7 @@ python saltexplore.py [-c /path/to/settings.yaml]
 # Bugs / Feature Requests
 
 Please attach node info from salt while sending bugs/feature requests. It can help to understand your specifics.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsaudit%2Fsalt_to_device42_sync.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsaudit%2Fsalt_to_device42_sync?ref=badge_large)
